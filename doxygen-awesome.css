@@ -187,9 +187,9 @@ html {
     html:not(.light-mode) {
         color-scheme: dark;
 
-        --primary-color: #1982d2;
-        --primary-dark-color: #86a9c4;
-        --primary-light-color: #4779ac;
+        --primary-color: #bd93f9;
+        --primary-dark-color: #9270e4;
+        --primary-light-color: #9270e4
 
         --box-shadow: 0 2px 8px 0 rgba(0,0,0,.35);
 
